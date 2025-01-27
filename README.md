@@ -1,4 +1,4 @@
-# # Hand Gesture Recognition Project
+# Hand Gesture Recognition Project
 
 ## Overview
 This project implements a hand gesture recognition system using near-infrared images acquired from the Leap Motion sensor. The primary goal is to classify different hand gestures using a Convolutional Neural Network (CNN). 
